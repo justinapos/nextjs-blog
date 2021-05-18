@@ -10,7 +10,8 @@ export default function FirstPost() {
         <title>First Post to be changed for Vercel</title>
       </Head>
       <h1>
-        <title>First Post to be changed for Vercel</h1>
+        First Post to be changed for Vercel
+      </h1>
       <h2>
         <Link href="/">
           <a>Back to home</a>
